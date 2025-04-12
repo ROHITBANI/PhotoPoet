@@ -1,5 +1,2 @@
 streamlit
-PIL
-google.generativeai
-os
-dotenv
+google-generativeai==0.8.4
