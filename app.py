@@ -1,8 +1,8 @@
 import streamlit as st
 from PIL import Image
-import google.generativeai as genai
+import google.generativeai as genai # type: ignore
 import os
-from dotenv import load_dotenv
+from dotenv import load_dotenv # type: ignore
 
 # Load API key from .env file if available
 load_dotenv()
