@@ -1,0 +1,5 @@
+streamlit
+PIL
+google.generativeai a # type: ignore
+os
+dotenv
